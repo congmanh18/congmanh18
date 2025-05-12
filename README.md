@@ -5,7 +5,7 @@
 - 🤝 I enjoy working cross-functionally with **Frontend** and **Mobile** teams to deliver scalable, maintainable systems
 - 🌱 I’m currently learning more about **system design** and **cloud-native architecture**
 - 💬 I'm open to collaboration on backend infrastructure, APIs, and developer tools
-- 📫 How to reach me: [your.email@example.com] or [LinkedIn/GitHub link]
+- 📫 How to reach me: [nguyenmanh180102@gmail.com] or [LinkedIn/GitHub link]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once built a CLI tool in Golang to automate my entire workflow 🚀
 
